@@ -1,0 +1,11 @@
+
+*.obj
+*.sbr
+*.bsc
+*.exe
+*.vmp
+*.map
+*.idb
+*.ncb
+*.opt
+*.plg
